@@ -65,12 +65,12 @@ El prototipo se probó con éxito, demostrando su estabilidad básica y funciona
 **Detección:** El sistema identifica la clase [lentes-marcatexto] correctamente (en este caso). Al detectar un objeto, la etiqueta correspondiente aparece claramente en el display.
 **Indicadores:** Un LED distinto se enciende para cada objeto reconocido, y el LED rojo permanece encendido cuando no se detecta nada.
 
-[**VER EVIDENCIAS DE PRUEBAS Y FUNCIONAMIENTO:**] Consulte los archivos en la carpeta `/Evidencias` (Capturas, videos y logs)[cite: 54].
+[**VER EVIDENCIAS DE PRUEBAS Y FUNCIONAMIENTO:**] Consulte los archivos en la carpeta `/Evidencias` (Capturas, videos y logs)
 
 ## Conclusión 
 El proyecto permitió implementar un sistema funcional de detección de objetos con la ESP32-CAM, comprobando que el módulo es capaz de capturar imágenes y ejecutar un modelo ligero con buen desempeño. Se logró una comunicación estable, pruebas exitosas y una comprensión práctica del uso de visión por computadora
 
-## [cite_start]7. Trabajos Futuros [cite: 50]
+## Trabajos Futuros 
 
 - Implementar varias clases independientes
 - Mejorar iluminación y calidad de imagen
