@@ -77,8 +77,14 @@ El proyecto permitió implementar un sistema funcional de detección de objetos 
 
 ## Referencias Bibliográficas 
 
-[1] Espressif Systems, “Guía Técnica del Módulo ESP32-CAM,” Documentación oficial, 2023. Disponible en: https://www.espressif.com/es/support/documents/technical-documents
-[2] Arduino, “Instalación del ESP32 en Arduino IDE,” Tutorial oficial, 2024. Disponible en: https://support.arduino.cc/hc/es
-[3] Edge Impulse, “Guía para el Entrenamiento de Modelos con Visión,” Documentación en español, 2024. Disponible en: https://docs.edgeimpulse.com/docs/es/
-[4] Adafruit Industries, “Uso de la Librería Adafruit GFX y Pantallas OLED,” Manual técnico, 2023. Disponible en: https://learn.adafruit.com
-[5] Edge Impulse, “FOMO: Faster Objects, More Objects — a Lightweight Object Detection Model,” Documentation, 2023. Disponible en: https://docs.edgeimpulse.com 
+## 8. Referencias Bibliográficas (Punto 10)
+
+[1] Espressif Systems, "Guía Técnica del Módulo ESP32-CAM," Documentación oficial, 2023. Disponible en: https://www.espressif.com/es/support/documents/technical-documents
+
+[2] Arduino, "Instalación del ESP32 en Arduino IDE," Tutorial oficial, 2024. Disponible en: https://support.arduino.cc/hc/es
+
+[3] Edge Impulse, "Guía para el Entrenamiento de Modelos con Visión," Documentación en español, 2024. Disponible en: https://docs.edgeimpulse.com/docs/es/
+
+[4] Adafruit Industries, "Uso de la Librería Adafruit GFX y Pantallas OLED," Manual técnico, 2023. Disponible en: https://learn.adafruit.com
+
+[5] Edge Impulse, "FOMO: Faster Objects, More Objects — a Lightweight Object Detection Model," Documentación, 2023. Disponible en: https://docs.edgeimpulse.com
