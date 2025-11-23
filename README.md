@@ -27,16 +27,16 @@ Librerías esenciales:
 - **Adafruit_GFX.h** – Librería gráfica base.  
 - **Adafruit_SSD1306.h** – Control de la pantalla OLED.  
 - **Plataforma de ML:** Edge Impulse (Para la generación del modelo de inferencia).
-- **Librería generada por Edge Impulse** (contiene el modelo entrenado).
+- **Librería generada por Edge Impulse** (contiene el modelo entrenado, en este caso Archivo `Librería/Lentes.zip` ).
 
 ## Desarrollo del sistema
 ### Electrónica y Armado 
 El prototipo se basa en el siguiente esquema de conexión, garantizando el montaje final y la correcta integración de los componentes (cámara, display, LEDs)
-* [**VER ESQUEMA DE CONEXIÓN:**] Archivo `Electronica/Esquema-conexion.png`
-* [**VER EVIDENCIA DEL ARMADO:**] Archivo `Electronica/Foto-Montaje-Final.jpg`
+* [**VER ESQUEMA DE CONEXIÓN:**] Archivo `Electrónica/Esquema-conexion.png`
+* [**VER EVIDENCIA DEL ARMADO:**] Archivo `Electrónica/Foto-Montaje-Final.jpg`
 
 ### Software y Código
-El código completo y organizado se encuentra en la carpeta `/Codigo`. Incluye comentarios esenciales para su comprensión.
+El código completo y organizado se encuentra en la carpeta `/Código`. Incluye comentarios esenciales para su comprensión.
 Procedimiento para crear la clase en Edge Impulse (resumen profesional)
 
 ### Modelo en Edge Impulse
@@ -81,4 +81,4 @@ El proyecto permitió implementar un sistema funcional de detección de objetos 
 [2] Arduino, “Instalación del ESP32 en Arduino IDE,” Tutorial oficial, 2024. Disponible en: https://support.arduino.cc/hc/es
 [3] Edge Impulse, “Guía para el Entrenamiento de Modelos con Visión,” Documentación en español, 2024. Disponible en: https://docs.edgeimpulse.com/docs/es/
 [4] Adafruit Industries, “Uso de la Librería Adafruit GFX y Pantallas OLED,” Manual técnico, 2023. Disponible en: https://learn.adafruit.com
-[5] Edge Impulse, “FOMO: Faster Objects, More Objects — a Lightweight Object Detection Model,” Documentation, 2023. Disponible en: https://docs.edgeimpulse.com
+[5] Edge Impulse, “FOMO: Faster Objects, More Objects — a Lightweight Object Detection Model,” Documentation, 2023. Disponible en: https://docs.edgeimpulse.com 
