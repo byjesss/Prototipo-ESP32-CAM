@@ -39,13 +39,13 @@ El prototipo se basa en el siguiente esquema de conexión, garantizando el monta
 El código completo y organizado se encuentra en la carpeta `/Código`. Incluye comentarios esenciales para su comprensión.
 
 ### Modelo en Edge Impulse
-- Se creó un nuevo proyecto de tipo Object Detection en Edge Impulse.
-- Se generó una sola clase llamada "objetos", la cual agrupa ambos elementos a detectar.
-- Se capturaron y subieron imágenes de los dos objetos en diferentes ambientes, posiciones y distancias.
-- Todas las imágenes fueron etiquetadas con la misma clase (objetos).
-- En Labeling Queue, se dibujaron los bounding boxes alrededor de cada objeto presente.
-- Se entrenó el modelo hasta obtener precisión suficiente y sin sobreajuste.
-- En la sección Deployment, se exportó como Arduino Library (.zip).
+1. Se creó un nuevo proyecto de tipo Object Detection en Edge Impulse.
+2. Se generó una sola clase llamada "objetos", la cual agrupa ambos elementos a detectar.
+3. Se capturaron y subieron imágenes de los dos objetos en diferentes ambientes, posiciones y distancias.
+4. Todas las imágenes fueron etiquetadas con la misma clase (objetos).
+5. En Labeling Queue, se dibujaron los bounding boxes alrededor de cada objeto presente.
+6. Se entrenó el modelo hasta obtener precisión suficiente y sin sobreajuste.
+7. En la sección Deployment, se exportó como Arduino Library (.zip).
 
 ## Instrucciones de Compilación y Flasheo para ESP32-CAM
 1. Abrir Arduino IDE
