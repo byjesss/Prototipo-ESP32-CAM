@@ -32,7 +32,7 @@ Librerías esenciales:
 ## Desarrollo del sistema
 ### Electrónica y Armado 
 El prototipo se basa en el siguiente esquema de conexión, garantizando el montaje final y la correcta integración de los componentes (cámara, display, LEDs)
-* [**VER ESQUEMA DE CONEXIÓN:**] Archivo `Electronica/Esquema-Conexiones.png`
+* [**VER ESQUEMA DE CONEXIÓN:**] Archivo `Electronica/Esquema-conexion.png`
 * [**VER EVIDENCIA DEL ARMADO:**] Archivo `Electronica/Foto-Montaje-Final.jpg`
 
 ### Software y Código
