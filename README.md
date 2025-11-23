@@ -19,7 +19,7 @@ El objetivo principal de este proyecto es diseñar, implementar e integrar un pr
 - Pantalla OLED SSD1306
 - (Opcional) Protoboard
 ### Software y Librerías 
-IDE/Entorno de desarrollo:  Arduino IDE
+- IDE/Entorno de desarrollo:  Arduino IDE
 Librerías esenciales: 
 - **Arduino.h** – Funciones principales del entorno Arduino.
 - **WiFi.h** – Conexión WiFi.  
